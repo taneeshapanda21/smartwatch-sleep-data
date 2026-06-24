@@ -1,2 +1,3 @@
-# smartwatch-sleep-data
-time series analysis on smartwatch dataset
+# Time Series Analysis of Smartwatch Sleep Data
+
+This project applies SARIMA modeling and spectral analysis to a synthetic Kaggle sleep dataset (2018-2025) to demonstrate time series techniques, SARIMA modeling and spectral analysis, on physiological data while avoiding privacy concerns. Both methods independently conclude that the monthly average sleep duration is essentially white noise (ARIMA(0,0,0), flat spectrum, no seasonal peaks).
